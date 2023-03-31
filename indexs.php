@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+   <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -14,6 +15,7 @@
     <!-- Termina navbar --> 
     <?php include "include/menu.php"; ?>
     <?php include "include/sumas.php"; ?>
+    <?php include "include/tdinamica.php"?>
 <script scr="js/bootstrap.min.js"></script>
 
 </body>
